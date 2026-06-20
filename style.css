@@ -232,20 +232,7 @@ footer {
     box-shadow: 0 4px 12px rgba(0,0,0,.08);
 }
 
-.cta {
-    background: #bc2026;
-    color: white;
-    text-align: center;
-    padding: 80px 20px;
-}
 
-.cta h2 {
-    margin-bottom: 15px;
-}
-
-.cta p {
-    margin-bottom: 25px;
-}
 
 /* Mobile */
 @media (max-width: 768px) {
